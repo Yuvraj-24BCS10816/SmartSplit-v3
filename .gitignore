@@ -1,0 +1,10 @@
+target/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+*.class
+database/smartsplit.db
+database/smartsplit.db-journal
+database/smartsplit.db-shm
+database/smartsplit.db-wal
